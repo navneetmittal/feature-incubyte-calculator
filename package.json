@@ -1,0 +1,23 @@
+{
+  "name": "feature-incubyte-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringCalculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navneetmittal/feature-incubyte-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navneetmittal/feature-incubyte-calculator/issues"
+  },
+  "homepage": "https://github.com/navneetmittal/feature-incubyte-calculator#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
